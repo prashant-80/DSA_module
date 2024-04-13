@@ -2,5 +2,7 @@
 module.exports = {
     LinkedList : require('./linkedlist'),
     Queue: require('./queue'),
-    stack: require('./stack')
+    stack: require('./stack'),
+    MinHeap  : require('./heap'),
+    BinarySearchTree:  require('./bst')
 }

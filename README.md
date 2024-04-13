@@ -10,3 +10,29 @@ console.log(arr);
 
 
 '''
+
+Algorithms:
+
+-> BinarySearch
+-> BubbleSort
+-> InsertionSort
+-> LinearSearch
+-> MergeSort
+-> QuickSort
+-> SelectionSort
+
+DataStructures:
+
+-> BinarySearch tree
+-> Heap
+-> LinkedList
+-> Queue
+-> Stack
+
+
+
+
+
+
+
+
