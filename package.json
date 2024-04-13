@@ -1,6 +1,6 @@
 {
   "name": "advancedalgo_dsa",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": " A npm package that help you to use all famous ds and algo in your coding implementation",
   "main": "index.js",
   "scripts": {
