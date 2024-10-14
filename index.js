@@ -3,7 +3,7 @@ const DataStructures = require('./datastructure')
 
 module.exports = {
     DataStructures,
-    Algorithm
+    Algorithms
 }
 
 
